@@ -11,6 +11,8 @@
 		0F7B0FA62B2075B50001ECA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7B0FA52B2075B50001ECA0 /* ContentView.swift */; };
 		0F7B0FA82B2075B80001ECA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F7B0FA72B2075B80001ECA0 /* Assets.xcassets */; };
 		0F7B0FAB2B2075B80001ECA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F7B0FAA2B2075B80001ECA0 /* Preview Assets.xcassets */; };
+		0F7B0FB22B2080290001ECA0 /* PrefectureData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7B0FB12B2080290001ECA0 /* PrefectureData.swift */; };
+		0F7B0FB42B20828B0001ECA0 /* newfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7B0FB32B20828B0001ECA0 /* newfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		0F7B0FA52B2075B50001ECA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0F7B0FA72B2075B80001ECA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F7B0FAA2B2075B80001ECA0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0F7B0FB12B2080290001ECA0 /* PrefectureData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrefectureData.swift; sourceTree = "<group>"; };
+		0F7B0FB32B20828B0001ECA0 /* newfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				0F7B0FA32B2075B50001ECA0 /* CodeTestLabApp.swift */,
+				0F7B0FB12B2080290001ECA0 /* PrefectureData.swift */,
+				0F7B0FB32B20828B0001ECA0 /* newfile.swift */,
 				0F7B0FA52B2075B50001ECA0 /* ContentView.swift */,
 				0F7B0FA72B2075B80001ECA0 /* Assets.xcassets */,
 				0F7B0FA92B2075B80001ECA0 /* Preview Content */,
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F7B0FB22B2080290001ECA0 /* PrefectureData.swift in Sources */,
 				0F7B0FA62B2075B50001ECA0 /* ContentView.swift in Sources */,
+				0F7B0FB42B20828B0001ECA0 /* newfile.swift in Sources */,
 				0F7B0FA42B2075B50001ECA0 /* CodeTestLabApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
